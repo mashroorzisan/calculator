@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+.calc-title{
+    text-align: center;
+    font-size:48px;
+    margin-bottom: 40px;
+}
+table{
+    height: 50vh;
+    margin:auto;
+    background-color: silver;
+    padding: 30px 10px;
+    border-radius: 5px;
+    border: 1 px solid black;
+}
+input[type='button']{
+    width: 12.5vw;
+    height: 70px;
+    background-color: cadetblue;
+    font-size:30px;
+    border-radius: 5px;
+}
+input[type='text']{
+    width: 38.8vw;
+    height: 70px;
+    font-size: 20px;
+}
